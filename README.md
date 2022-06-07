@@ -1,15 +1,14 @@
-# TheNexus
-The city that comes to you. An open source, hackable, community-driven and CC0 experiment in open metaverse.
+# The Nexus
+
+![nexus](https://user-images.githubusercontent.com/18633264/172240812-ea88f2bd-c183-493d-9dd9-010963afc318.jpg)
+
+# The Nexus
+The city that comes to you. An open source, hackable, community-driven and CC0 city for the open metaverse.
+
+We can build anything if we do it together.
 
 ## Installation Instructions
-This project uses Git LFS to manage large files. Git on it's own isn't super great with some kinds of binary files.
-
-First, you will need to install Git LFS
-```sh
-curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-```
-
-Now clone the repo
+Clone the repo
 ```sh
 git clone https://github.com/thenexuscity/thenexus && cd thenexus
 ```
@@ -19,4 +18,4 @@ You shouldn't need to do anything special after that.
 If you don't feel comfortable using Git, you can check out this tutorial to get yourself up to speed:
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-The Nexus core team would gladly support any artists interested in contributing with this.
+Contributors welcome. Guidelines incoming.
