@@ -2,7 +2,7 @@
 
 # The Nexus
 
-The city that comes to you. An open source, hackable, community-driven and CC0 city for the open metaverse.
+An open source, hackable, community-driven and CC0 city for the open metaverse. Bring The Nexus to the places your people already are.
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -24,21 +24,29 @@ git clone https://github.com/thenexuscity/thenexus && cd thenexus
 
 You shouldn't need to do anything special after that.
 
-When you have made something cool, you can add it to your git and push it
+## Contributions Welcome
+Any contributions will be reviewed. Thank you for your contributions.
+
+Please post photos to make it easy, and try to remove any unused or unlinked assets to keep your files small. Deleting orphan files and removing unused assets will keep out github from exploding. Here's a tutorial:
+https://www.youtube.com/watch?v=59IU_tPH4Hs
+
+### Adding New Assets and Commiting Them
+When you have made something you want to add to The nexus then you can add it to your git and push it with Github Desktop or command line, depending on your preference.
+
+If you are unfamiliar with shell scripting in the terminal then the Desktop version is probably easier: https://desktop.github.com/
+Here's a tutorial for how to use it: https://www.youtube.com/watch?v=RPagOAUx2SQ
+
 ```sh
 git add <filename>.blend
 git commit -m "Added <feature> to <filename>
 git push
 ```
 
-If you don't feel comfortable using Git, you can check out this tutorial to get yourself up to speed:
+Shell looks scary at first, but it actually pretty simple, and it's worth getting into.
+You can find a tutorial for this kind of shell scripting here: https://www.youtube.com/watch?v=GtovwKDemnI
+
+If you don't (yet) feel comfortable using Git in the terminal, this video tutorial may be helpful:
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
-
-## Please Contribute To The Project
-Contributors welcome. Creators appreciated, revered and beloved. Any contributions will be reviewed. 
-
-Please post photos to make it easy, and try to remove any unused or unlinked assets to keep your files small. Deleting orphan files and removing unused assets will keep out github from exploding. Here's a tutorial:
-https://www.youtube.com/watch?v=59IU_tPH4Hs
 
 ##### We can build anything if we do it together.
 
