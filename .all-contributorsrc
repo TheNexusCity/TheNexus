@@ -10,21 +10,33 @@
       "name": "m00n",
       "avatar_url": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "profile": "https://github.com/lalalune",
-      "contributions": ["design"]
+      "contributions": [
+        "design"
+      ]
     },
     {
       "login": "Bluepulasky",
       "name": "Tomas Manrique",
       "avatar_url": "https://avatars.githubusercontent.com/u/58783627?v=4",
       "profile": "https://github.com/Bluepulasky",
-      "contributions": ["design"]
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "KylinQH",
+      "name": "KylinQH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107046780?v=4",
+      "profile": "http://www.kylinhuang.com",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "thenexus",
-  "projectOwner": "thenexuscity",
+  "projectName": "TheNexus",
+  "projectOwner": "TheNexusCity",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
 }
-
