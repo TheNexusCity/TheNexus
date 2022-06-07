@@ -2,7 +2,11 @@
 
 # The Nexus
 
-An open source, hackable, community-driven and CC0 city for the open metaverse. Bring The Nexus to the places your people already are.
+The Nexus is an open source, community-driven, CC0 city for the open metaverse.
+
+- Bring The Nexus to the places your people already are
+- Fork it and modify it to fit your community
+- Build with us and be part of something that will exist forever for anyone to use
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
