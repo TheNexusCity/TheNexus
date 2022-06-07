@@ -1,0 +1,22 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lalalune",
+      "name": "m00n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18633264?v=4",
+      "profile": "https://github.com/lalalune",
+      "contributions": ["code", "design", "art"]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "thenexus",
+  "projectOwner": "thenexuscity",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

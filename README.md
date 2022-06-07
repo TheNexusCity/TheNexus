@@ -19,3 +19,8 @@ If you don't feel comfortable using Git, you can check out this tutorial to get 
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 Contributors welcome. Guidelines incoming.
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+
