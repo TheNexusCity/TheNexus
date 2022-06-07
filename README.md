@@ -8,7 +8,7 @@ The city that comes to you. An open source, hackable, community-driven and CC0 c
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-green.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 ## Setup Instructions
@@ -51,8 +51,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lalalune"><img src="https://avatars.githubusercontent.com/u/18633264?v=4?s=100" width="100px;" alt=""/><br /><sub><b>m00n</b></sub></a><br /><a href="https://github.com/thenexuscity/thenexus/commits?author=lalalune" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/Bluepulasky"><img src="https://avatars.githubusercontent.com/u/58783627?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tomas Manrique</b></sub></a><br /><a href="https://github.com/thenexuscity/thenexus/commits?author=Bluepulasky" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/lalalune"><img src="https://avatars.githubusercontent.com/u/18633264?v=4?s=100" width="100px;" alt=""/><br /><sub><b>m00n</b></sub></a><br /><a href="#design-lalalune" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Bluepulasky"><img src="https://avatars.githubusercontent.com/u/58783627?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tomas Manrique</b></sub></a><br /><a href="#design-Bluepulasky" title="Design">🎨</a></td>
+    <td align="center"><a href="http://www.kylinhuang.com"><img src="https://avatars.githubusercontent.com/u/107046780?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KylinQH</b></sub></a><br /><a href="#design-KylinQH" title="Design">🎨</a></td>
   </tr>
 </table>
 
