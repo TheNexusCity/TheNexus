@@ -12,7 +12,7 @@ The Nexus is an open source, community-driven, CC0 city for the open metaverse.
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 ## Setup Instructions
@@ -66,6 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lalalune"><img src="https://avatars.githubusercontent.com/u/18633264?v=4?s=100" width="100px;" alt=""/><br /><sub><b>m00n</b></sub></a><br /><a href="#design-lalalune" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/Bluepulasky"><img src="https://avatars.githubusercontent.com/u/58783627?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tomas Manrique</b></sub></a><br /><a href="#design-Bluepulasky" title="Design">🎨</a></td>
     <td align="center"><a href="http://www.kylinhuang.com"><img src="https://avatars.githubusercontent.com/u/107046780?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KylinQH</b></sub></a><br /><a href="#design-KylinQH" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/DavinciDreams"><img src="https://avatars.githubusercontent.com/u/64185677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hypatia</b></sub></a><br /><a href="#business-DavinciDreams" title="Business development">💼</a> <a href="#ideas-DavinciDreams" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
