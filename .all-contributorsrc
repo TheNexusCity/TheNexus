@@ -41,6 +41,15 @@
         "business",
         "ideas"
       ]
+    },
+    {
+      "login": "joshuagwatts",
+      "name": "Holowatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91230119?v=4",
+      "profile": "https://holowatts.com/",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
