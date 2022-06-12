@@ -35,9 +35,11 @@ Please post photos to make it easy, and try to remove any unused or unlinked ass
 https://www.youtube.com/watch?v=59IU_tPH4Hs
 
 Clean up orphans using this command in blender.
+
 ![unknown](https://user-images.githubusercontent.com/58783627/173249118-c2df08db-1613-4cf1-bce3-01de174496ef.png)
 
 Make sure to have this settings on blender to keep assets at minimum to keep the files small:
+
 ![unknown](https://user-images.githubusercontent.com/58783627/173249099-76672a4c-6acc-4b4d-bde3-cd34db7ac7ba.png)
 
 ### Adding New Assets and Commiting Them
