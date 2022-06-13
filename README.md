@@ -31,7 +31,7 @@ You shouldn't need to do anything special after that.
 ## Contributions Welcome
 Any contributions will be reviewed. Thank you for your contributions.
 
-Please post photos to make it easy, and try to remove any unused or unlinked assets to keep your files small. Deleting orphan files and removing unused assets will keep out github from exploding. Here's a tutorial:
+Please post photos to make it easy, and try to remove any unused or unlinked assets to keep your files small. Deleting orphan files and removing unused assets will keep out GitHub from exploding. Here's a tutorial:
 https://www.youtube.com/watch?v=59IU_tPH4Hs
 
 Clean up orphans using this command in blender.
@@ -43,7 +43,7 @@ Make sure to have this settings on blender to keep assets at minimum to keep the
 ![unknown](https://user-images.githubusercontent.com/58783627/173249099-76672a4c-6acc-4b4d-bde3-cd34db7ac7ba.png)
 
 ### Adding New Assets and Commiting Them
-When you have made something you want to add to The nexus then you can add it to your git and push it with Github Desktop or command line, depending on your preference.
+When you have made something you want to add to The nexus then you can add it to your git and push it with GitHub Desktop or command line, depending on your preference.
 
 If you are unfamiliar with shell scripting in the terminal then the Desktop version is probably easier: https://desktop.github.com/
 Here's a tutorial for how to use it: https://www.youtube.com/watch?v=RPagOAUx2SQ
