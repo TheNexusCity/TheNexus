@@ -87,4 +87,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+## Member of M3 Metaverse Makers https://3d.m3org.com/
+![image](https://user-images.githubusercontent.com/64185677/173713393-45a998e7-e8f1-4a31-afd9-b2d4f8fa3af9.png)
+
 ![image](https://user-images.githubusercontent.com/18633264/172650173-d8766663-ccd4-406f-9ae7-08107127ae5a.png)
+
+
+
