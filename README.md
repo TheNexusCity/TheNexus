@@ -12,7 +12,7 @@ The Nexus is an open source, community-driven, CC0 city for the open metaverse.
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 ## Setup Instructions
@@ -33,6 +33,14 @@ Any contributions will be reviewed. Thank you for your contributions.
 
 Please post photos to make it easy, and try to remove any unused or unlinked assets to keep your files small. Deleting orphan files and removing unused assets will keep out github from exploding. Here's a tutorial:
 https://www.youtube.com/watch?v=59IU_tPH4Hs
+
+Clean up orphans using this command in blender.
+
+![unknown](https://user-images.githubusercontent.com/58783627/173249118-c2df08db-1613-4cf1-bce3-01de174496ef.png)
+
+Make sure to have this settings on blender to keep assets at minimum to keep the files small:
+
+![unknown](https://user-images.githubusercontent.com/58783627/173249099-76672a4c-6acc-4b4d-bde3-cd34db7ac7ba.png)
 
 ### Adding New Assets and Commiting Them
 When you have made something you want to add to The nexus then you can add it to your git and push it with Github Desktop or command line, depending on your preference.
@@ -68,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.kylinhuang.com"><img src="https://avatars.githubusercontent.com/u/107046780?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KylinQH</b></sub></a><br /><a href="#design-KylinQH" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/DavinciDreams"><img src="https://avatars.githubusercontent.com/u/64185677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hypatia</b></sub></a><br /><a href="#business-DavinciDreams" title="Business development">💼</a> <a href="#ideas-DavinciDreams" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://holowatts.com/"><img src="https://avatars.githubusercontent.com/u/91230119?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Holowatts</b></sub></a><br /><a href="#design-joshuagwatts" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/bluej21"><img src="https://avatars.githubusercontent.com/u/107321553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay Chang</b></sub></a><br /><a href="#design-bluej21" title="Design">🎨</a></td>
   </tr>
 </table>
 
