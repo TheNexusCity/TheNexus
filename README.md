@@ -77,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/DavinciDreams"><img src="https://avatars.githubusercontent.com/u/64185677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hypatia</b></sub></a><br /><a href="#business-DavinciDreams" title="Business development">💼</a> <a href="#ideas-DavinciDreams" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://holowatts.com/"><img src="https://avatars.githubusercontent.com/u/91230119?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Holowatts</b></sub></a><br /><a href="#design-joshuagwatts" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/bluej21"><img src="https://avatars.githubusercontent.com/u/107321553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay Chang</b></sub></a><br /><a href="#design-bluej21" title="Design">🎨</a></td>
+    <td align="center"><a href="/https://github.com/Colorfingers"><img src="https://avatars.githubusercontent.com/u/42556646?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Colorfingers</b></sub></a><br /><a href="#design-bluej21" title="Design">🎨</a></td>    
   </tr>
 </table>
 
